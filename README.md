@@ -1,1 +1,1 @@
-This is intended to be used with the CCTHUNDER modpack... Contents of said pack reproduced in mrpack form here due to being a combo curse-modrinth bundle; as combo packs are effectively unhostable on both.
+This is intended to be used with the CCTHUNDER modpack... Contents of said pack reproduced in the minimal form required for import into ATLAUNCHER here due to being a combo curse-modrinth bundle; as combo packs are effectively unhostable on both.
