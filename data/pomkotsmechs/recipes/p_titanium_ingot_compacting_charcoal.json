@@ -1,0 +1,38 @@
+{
+  "type": "create:compacting",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "item": "pomkotsmechs:p_titanium_nugget"
+    },
+    {
+      "item": "pomkotsmechs:p_titanium_nugget"
+    },
+    {
+      "item": "pomkotsmechs:p_titanium_nugget"
+    },
+    {
+      "item": "pomkotsmechs:p_titanium_nugget"
+    },
+    {
+      "item": "pomkotsmechs:p_titanium_nugget"
+    },
+    {
+      "item": "quark:charcoal_block"
+    },
+    {
+      "item": "quark:charcoal_block"
+    },
+    {
+      "item": "quark:charcoal_block"
+    },
+    {
+      "item": "quark:charcoal_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "pomkotsmechs:p_titanium_ingot"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "I": {
+      "item":"pomkotsmechs:large_steel_plate"
+    },
+    "H": {
+      "item":"pomkotsmechs:p_titanium_ingot"
+    },
+    "B": {
+      "item": "pomkotsmechs:kasumi"
+    },
+    "C": {
+      "item":"pomkotsmechs:kagenobu"
+    }
+  },
+  "pattern": [
+    " H H ",
+    "II II",
+    "BH HC",
+    "II II",
+    " H H "
+  ],
+  "result": {
+    "count": 1,
+    "item": "pomkotsmechs:muknvaliarm"
+  },
+  "show_notification": false
+}

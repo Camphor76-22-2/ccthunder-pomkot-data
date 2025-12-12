@@ -1,0 +1,37 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "I": {
+      "item":"pomkotsmechs:p_titanium_ingot"
+    },
+    "H": {
+      "item":"pomkotsmechs:muknvalihead"
+    },
+    "B": {
+      "item":"pomkotsmechs:muknvalibody"
+    },
+    "A": {
+      "item":"pomkotsmechs:muknvaliarm"
+    },
+    "L": {
+      "item":"pomkotsmechs:muknvalilegs"
+    },
+    "S": {
+      "item": "create_new_age:overcharged_diamond"
+    }
+  },
+  "pattern": [
+    " IHI ",
+    "IISII",
+    "IIAII",
+    "IIBII",
+    " ILI "
+  ],
+  "result": {
+    "count": 1,
+    "item": "pomkotsmechsextension:corestone_pmge03"
+  },
+  "show_notification": false
+}

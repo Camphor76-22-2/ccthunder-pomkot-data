@@ -1,0 +1,28 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "I": {
+      "item":"pomkotsmechs:large_steel_plate"
+    },
+    "H": {
+      "item":"create_new_age:overcharged_iron"
+    },
+    "T": {
+      "item":"createbigcannons:autocannon_ammo_container"
+    }
+  },
+  "pattern": [
+    " I I ",
+    " I I ",
+    " IHI ",
+    "  T  ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "pomkotsmechs:kasumi"
+  },
+  "show_notification": false
+}

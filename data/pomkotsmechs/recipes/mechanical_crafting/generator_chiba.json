@@ -1,0 +1,25 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "I": {
+      "item":"pomkotsmechs:large_steel_plate"
+    },
+    "H": {
+      "item":"create_new_age:overcharged_iron"
+    }
+  },
+  "pattern": [
+    "  I  ",
+    " IHI ",
+    "IHHHI",
+    " IHI ",
+    "  I  "
+  ],
+  "result": {
+    "count": 1,
+    "item": "pomkotsmechs:chiba"
+  },
+  "show_notification": false
+}

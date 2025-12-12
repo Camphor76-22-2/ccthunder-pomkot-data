@@ -1,0 +1,28 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "I": {
+      "item":"pomkotsmechs:p_titanium_ingot"
+    },
+    "T": {
+      "item":"minecraft:fire_charge"
+    },
+    "H": {
+      "item":"create:copper_backtank"
+    }
+  },
+  "pattern": [
+    "     ",
+    " III ",
+    " IHI ",
+    "  T  ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "pomkotsmechs:kansai"
+  },
+  "show_notification": false
+}

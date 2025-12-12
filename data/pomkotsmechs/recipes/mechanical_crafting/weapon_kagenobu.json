@@ -1,0 +1,28 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "I": {
+      "item":"pomkotsmechs:large_steel_plate"
+    },
+    "H": {
+      "item":"create_new_age:overcharged_iron"
+    },
+    "T": {
+      "item":"minecraft:tnt"
+    }
+  },
+  "pattern": [
+    "  I  ",
+    "  I  ",
+    " IHI ",
+    "  T  ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "pomkotsmechs:kagenobu"
+  },
+  "show_notification": false
+}

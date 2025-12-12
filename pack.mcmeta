@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "description": "Pomkots recipes for CCTHUNDR modpack pomko-mechs, needs create, create: stuff and additions, create: connectivity, createbigcannons, quark; a charcoal block recipe not shipped by quark is assumed, but not required"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "create:compacting",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "create_new_age:overcharged_iron"
+    },
+    {
+      "item": "create_new_age:overcharged_iron"
+    },
+    {
+      "item": "minecraft:charcoal"
+    },
+    {
+      "item": "minecraft:charcoal"
+    }
+  ],
+  "results": [
+    {
+      "item": "pomkotsmechs:p_titanium_nugget"
+    }
+  ]
+}

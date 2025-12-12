@@ -1,0 +1,37 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "I": {
+      "item":"pomkotsmechs:large_steel_plate"
+    },
+    "H": {
+      "item":"pomkotsmechs:p_titanium_ingot"
+    },
+    "B": {
+      "tag": "create:seats"
+    },
+    "C": {
+      "item":"pomkotsmechs:chiba"
+    },
+    "Z": {
+      "item":"pomkotsmechs:haneda"
+    },
+    "L": {
+      "item":"create:mechanical_bearing"
+    }
+  },
+  "pattern": [
+    " IHI ",
+    " HIH ",
+    "LIBIL",
+    "IHCHI",
+    " ZLZ "
+  ],
+  "result": {
+    "count": 1,
+    "item": "pomkotsmechs:aldebaranbody"
+  },
+  "show_notification": false
+}

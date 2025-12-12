@@ -1,0 +1,28 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "H": {
+      "item":"pomkotsmechs:p_titanium_ingot"
+    },
+    "B": {
+      "item": "pomkotsmechs:kasumi"
+    },
+    "C": {
+      "item":"pomkotsmechs:kagenobu"
+    }
+  },
+  "pattern": [
+    "     ",
+    "     ",
+    "BH HC",
+    "     ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "pomkotsmechs:denebarm"
+  },
+  "show_notification": false
+}

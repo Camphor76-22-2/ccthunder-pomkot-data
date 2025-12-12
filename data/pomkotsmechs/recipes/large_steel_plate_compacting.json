@@ -1,0 +1,14 @@
+{
+  "type": "create:pressing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "createbigcannons:nethersteel_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "pomkotsmechs:large_steel_plate"
+    }
+  ]
+}

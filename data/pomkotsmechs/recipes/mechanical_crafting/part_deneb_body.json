@@ -1,0 +1,34 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "H": {
+      "item":"pomkotsmechs:p_titanium_ingot"
+    },
+    "B": {
+      "tag": "create:seats"
+    },
+    "C": {
+      "item":"pomkotsmechs:saga"
+    },
+    "Z": {
+      "item":"pomkotsmechs:kansai"
+    },
+    "L": {
+      "item":"create:mechanical_bearing"
+    }
+  },
+  "pattern": [
+    "     ",
+    "  H  ",
+    "LHBHL",
+    " ZCZ ",
+    "  L  "
+  ],
+  "result": {
+    "count": 1,
+    "item": "pomkotsmechs:denebbody"
+  },
+  "show_notification": false
+}

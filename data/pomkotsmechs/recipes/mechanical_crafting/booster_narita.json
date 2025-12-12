@@ -1,0 +1,28 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "I": {
+      "item":"pomkotsmechs:large_steel_plate"
+    },
+    "T": {
+      "item":"minecraft:fire_charge"
+    },
+    "H": {
+      "item":"create:copper_backtank"
+    }
+  },
+  "pattern": [
+    "     ",
+    " III ",
+    " IHI ",
+    "  T  ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "item": "pomkotsmechs:narita"
+  },
+  "show_notification": false
+}

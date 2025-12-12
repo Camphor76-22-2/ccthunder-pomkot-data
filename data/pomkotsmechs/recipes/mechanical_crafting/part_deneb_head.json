@@ -1,0 +1,34 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "H": {
+      "item":"pomkotsmechs:p_titanium_ingot"
+    },
+    "B": {
+      "item":"minecraft:lightning_rod"
+    },
+    "A": {
+      "item":"create:redstone_link"
+    },
+    "L": {
+      "item":"create:mechanical_bearing"
+    },
+    "S": {
+      "item": "create:polished_rose_quartz"
+    }
+  },
+  "pattern": [
+    "  H  ",
+    " BSB ",
+    " HAH ",
+    "  H  ",
+    "  L  "
+  ],
+  "result": {
+    "count": 1,
+    "item": "pomkotsmechs:denebhead"
+  },
+  "show_notification": false
+}

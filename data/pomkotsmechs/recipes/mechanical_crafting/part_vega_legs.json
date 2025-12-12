@@ -1,0 +1,25 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "I": {
+      "item":"pomkotsmechs:large_steel_plate"
+    },
+    "H": {
+      "item":"pomkotsmechs:p_titanium_ingot"
+    }
+  },
+  "pattern": [
+    "     ",
+    "     ",
+    " HHH ",
+    " IHI ",
+    " I I "
+  ],
+  "result": {
+    "count": 1,
+    "item": "pomkotsmechs:vegalegs"
+  },
+  "show_notification": false
+}

@@ -1,0 +1,37 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "I": {
+      "item":"pomkotsmechs:p_titanium_ingot"
+    },
+    "H": {
+      "item":"pomkotsmechs:aldebaranhead"
+    },
+    "B": {
+      "item":"pomkotsmechs:aldebaranbody"
+    },
+    "A": {
+      "item":"pomkotsmechs:aldebaranarm"
+    },
+    "L": {
+      "item":"pomkotsmechs:aldebaranlegs"
+    },
+    "S": {
+      "item": "create_new_age:overcharged_diamond"
+    }
+  },
+  "pattern": [
+    " IHI ",
+    "IISII",
+    "IIAII",
+    "IIBII",
+    " ILI "
+  ],
+  "result": {
+    "count": 1,
+    "item": "pomkotsmechsextension:corestone_pmac01c"
+  },
+  "show_notification": false
+}

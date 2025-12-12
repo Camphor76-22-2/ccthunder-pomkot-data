@@ -1,0 +1,22 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "H": {
+      "item":"pomkotsmechs:p_titanium_ingot"
+    }
+  },
+  "pattern": [
+    "     ",
+    "     ",
+    "  H  ",
+    " HHH ",
+    " H H "
+  ],
+  "result": {
+    "count": 1,
+    "item": "pomkotsmechs:deneblegs"
+  },
+  "show_notification": false
+}
